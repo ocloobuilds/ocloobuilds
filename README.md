@@ -1,7 +1,7 @@
 
 Hi Everyone... 
 
-My name is Dziedzom (mention it like jay-jom) Kofi Ocloo, you can skip to Anthony if you have a hard time around local names from other countries. I hail from Ghana, a country in West Africa. 
+My name is Dziedzom (mention it like jay-jom) Kofi Ocloo, you can skip to Anthony if you have a hard time mentioning local names from other countries. I hail from Ghana, a country in West Africa. 
 
 At a time when I didn't even have a basic understanding of a computer motherboard (around 2006-7), a friend predicted I will one day study tech at some point and work on something. I paid little attention to his prediction, but here I am, I got into tech and find myself working on some few ideas. 
 

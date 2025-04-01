@@ -5,7 +5,7 @@ My name is Dziedzom (mention it like jay-jom) Kofi Ocloo, you can skip to Anthon
 
 At a time when I didn't even have a basic understanding of a computer motherboard (around 2006-7), a friend predicted I will one day study tech at some point and work on something. I paid little attention to his prediction, but here I am, I got into tech and find myself working on some few ideas. 
 
-Currently, I am working on an open source project and some other ideas that may require capitalist backing. I will give a brief about them. If you want to follow any of them, I welcome you, I am interested in the meeting of minds. I am interested in Web Development, System Development, Managing and Writing. 
+Currently, I am working on an open source project and some other ideas that may require capitalist backing. I will give a brief about them. If you want to follow any of them, I welcome you, I am interested in the meeting of minds. I am interested in JavaScript, Python and APIs. 
 
 ### Eweivwo 
 
@@ -24,7 +24,3 @@ Catholic since birth, I have found out that the engagement the Church has with i
 I am not that into events. 
 
 I have attended a handful of events in my life. I realise the experience for me can take a lot of effort about the human experience to get a ticket. You will need to interact with more than enough people to get a ticket. I am picking inspiration from LEGO and IKEA (no! don't own any of them now) to build a ticketing experience. I want to put the Do-It-Yourself (DIY) into ticketing. I hope it works out, [www.passtens.com](http://www.passtens.com "www.passtens.com") will launch in 2025.
-
-### I Can Write Also
-
-Out of the busy of technical stuff, I do indulge in other subjects as well. Yes, I have ever taken the time to write a better imagination of [James Cameron's Way of Water](https://ocloowrites.medium.com/rethinking-avatar-2-the-way-of-my-treatment-895a2ef259a6 "James Cameron's Way of Water"). I have some [content on Medium](https://medium.com/@ocloowrites "content on Medium"). I will be topping up with more soon. I am open to columnist opportunities for newspapers or a magazines. 
